@@ -13,7 +13,7 @@ gem "propshaft"
 gem "rubocop-rails-omakase", require: false
 
 gem "rails", ">= 8.0.2"
-gem "view_component", "~> 3.0"
+gem "view_component", "~> 3.22"
 gem "tailwindcss-rails", "~> 4.2"
 
 # Start debugger with binding.b [https://github.com/ruby/debug]
